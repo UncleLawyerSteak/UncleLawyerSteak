@@ -23,7 +23,7 @@ I am 8 years experienced 'system engineer' specialist. With my knowledge and ski
   <a href="https://www.linkedin.com/in/warunthorn-jansung-6603b5239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCW82dcLNu2xBxYC0_6C_0GQ" target="_blank">
+  <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="">
