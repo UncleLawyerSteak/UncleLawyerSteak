@@ -33,6 +33,6 @@ I am 8 years experienced 'system engineer' specialist. With my knowledge and ski
 </div>
 
 <!---
-Warunthorn-Jansung/UncleLawyerSteak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UncleLawyerSteak/UncleLawyerSteak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
