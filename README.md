@@ -10,8 +10,6 @@ I am 8 years experienced 'system engineer' specialist. With my knowledge and ski
 - 📫 How to reach me uncle.lawyer.steak@gmail.com
 - 💬 Ask me about Pork Chicken Beef etc..
 
-<p align="center"><img src="https://user-images.githubusercontent.com/7834790/183679318-f36690a0-8c11-4ec1-af94-0b1ac36b4d20.png" width=50% /></p>
-
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oerj8c7l8jz5bcppkuy2xw7kz&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
@@ -35,6 +33,6 @@ I am 8 years experienced 'system engineer' specialist. With my knowledge and ski
 </div>
 
 <!---
-Warunthorn-Jansung/Warunthorn-Jansung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Warunthorn-Jansung/UncleLawyerSteak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
