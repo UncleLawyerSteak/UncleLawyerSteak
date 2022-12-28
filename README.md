@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/121537981/209770042-75c763a4-8798-4122-aaa5-08980171c6c8.png)
+## <p align="center"><img src="https://user-images.githubusercontent.com/121537981/209770042-75c763a4-8798-4122-aaa5-08980171c6c8.png" width=200 /></p>
+
 
 
 ## <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30 /> Hi, We are Uncle Lawyer Steak (สเต็กลุงทนาย )</p>
